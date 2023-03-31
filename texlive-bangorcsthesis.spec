@@ -1,6 +1,6 @@
 Name:		texlive-bangorcsthesis
 Version:	61770
-Release:	1
+Release:	2
 Summary:	Typeset a thesis at Bangor University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bangorcsthesis
