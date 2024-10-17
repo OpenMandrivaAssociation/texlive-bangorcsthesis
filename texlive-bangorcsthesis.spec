@@ -3,7 +3,7 @@ Version:	61770
 Release:	2
 Summary:	Typeset a thesis at Bangor University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bangorcsthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bangorcsthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bangorcsthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bangorcsthesis.doc.r%{version}.tar.xz
